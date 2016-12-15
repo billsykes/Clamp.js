@@ -1,0 +1,22 @@
+{
+  "name": "clampjs",
+  "main": "clamp.min.js",
+  "homepage": "https://github.com/billsykes/Clamp.js",
+  "description": "Clamps an HTML element by adding ellipsis to it if the content inside is too long.",
+  "keywords": [
+    "text-overflow",
+    "clamp",
+    "ellipsis"
+  ],
+  "authors": [
+    "Joseph J. Schmitt <me@joe.sh>"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
